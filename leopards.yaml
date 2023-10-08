@@ -1,7 +1,12 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Nora
 coach : Oscar + Nori
+=======
+manager: Dooli
+coach : Oscar
+>>>>>>> e735d08 (Edit manager Dooli to leopards)
 
 members:
 - Linda
